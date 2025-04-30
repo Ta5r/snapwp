@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.3.0
+
+### Minor Changes
+
+-   [#144](https://github.com/rtCamp/snapwp/pull/144) [`87f8f56`](https://github.com/rtCamp/snapwp/commit/87f8f5600039e7f72f0146f3dc1f0c77ead946bd) Thanks [@SH4LIN](https://github.com/SH4LIN)! - feat!: Refactor the Query Engine for composability and release `@snapwp/plugin-apollo-client` and `@snapwp/plugin-tanstack-query` adapters.
+
+### Patch Changes
+
+-   [#123](https://github.com/rtCamp/snapwp/pull/123) [`0ff49b6`](https://github.com/rtCamp/snapwp/commit/0ff49b60a919b005a04754d7a982973a84e902be) Thanks [@Swanand01](https://github.com/Swanand01)! - feat: Add SEO support for core WordPress metadata.
+
+-   [#161](https://github.com/rtCamp/snapwp/pull/161) [`3671797`](https://github.com/rtCamp/snapwp/commit/36717977c11e5795a0dc519b75ebd5030a9811e1) Thanks [@Swanand01](https://github.com/Swanand01)! - fix: Override eslint-react-hooks-plugin to prevent conflicts between `@wordpress/eslint-plugin` and `eslint-plugin-next`.
+
 ## 0.2.1
 
 ### Patch Changes
